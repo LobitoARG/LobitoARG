@@ -112,3 +112,10 @@ The webpage is fully responsive and can adapt to any resolution.
 I also developed a dashboard where the Admin can see all the products, register users and the idea is to move all the CRUD functions to this app wich was created using ReactJs.
 By using Browser Router/Routes/Route/NavLink i was abel to create a SPA webpage.
 
+Let's keep in touch!
+<p align="left">
+<a href="https://dev.to/lobitoarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lobitosdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alejandro-j-3397a6144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-j-3397a6144" height="30" width="40" /></a>
+<a href="https://instagram.com/lobito.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lobito.eth" height="30" width="40" /></a>
+</p>
+
