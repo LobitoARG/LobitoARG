@@ -109,7 +109,7 @@ Also, you can simulate buying an item by adding it to the cart. All the items ar
 
 The webpage is fully responsive and can adapt to any resolution.
 
-I also developed a dashboard where the Admin can see all the products, register users and the idea is to move all the CRUD functions to this app wich was created using ReactJs.
+I also developed a dashboard where the Admin can see all the products, registered users and the idea is to move all the CRUD functions to this app wich was created using ReactJs.
 By using Browser Router/Routes/Route/NavLink i was abel to create a SPA webpage.
 
 Let's keep in touch!
